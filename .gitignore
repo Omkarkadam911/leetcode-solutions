@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# JavaScript / Node
+node_modules/
+.npm
+
+# Java
+*.class
+*.jar
+
+# C++
+*.o
+*.out
+*.exe
