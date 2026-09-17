@@ -9,7 +9,9 @@ Solutions are organized by difficulty and/or topic:
 ```
 leetcode/
 ├── easy/
-│   └── 0014-longest-common-prefix/
+│   ├── 0014-longest-common-prefix/
+│   │   └── Solution.java
+│   └── 0141-linked-list-cycle/
 │       └── Solution.java
 ├── medium/
 └── hard/
@@ -19,10 +21,10 @@ leetcode/
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 1      |
+| Easy       | 2      |
 | Medium     | 0      |
 | Hard       | 0      |
-| **Total**  | **1**  |
+| **Total**  | **2**  |
 
 ## 🛠️ Languages Used
 
@@ -33,6 +35,7 @@ leetcode/
 | # | Title | Difficulty | Language | Link |
 |---|-------|------------|----------|------|
 | 14 | [Longest Common Prefix](easy/0014-longest-common-prefix/Solution.java) | Easy | Java | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) |
+| 141 | [Linked List Cycle](easy/0141-linked-list-cycle/Solution.java) | Easy | Java | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) |
 
 ---
 *Solutions are my own work for learning purposes.*
