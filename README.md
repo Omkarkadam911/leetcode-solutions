@@ -9,30 +9,30 @@ Solutions are organized by difficulty and/or topic:
 ```
 leetcode/
 ├── easy/
+│   └── 0014-longest-common-prefix/
+│       └── Solution.java
 ├── medium/
-├── hard/
-└── by-topic/
-    ├── arrays/
-    ├── strings/
-    ├── dynamic-programming/
-    ├── trees/
-    └── ...
+└── hard/
 ```
 
 ## 📊 Progress
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 0      |
+| Easy       | 1      |
 | Medium     | 0      |
 | Hard       | 0      |
-| **Total**  | **0**  |
+| **Total**  | **1**  |
 
 ## 🛠️ Languages Used
 
-- Python
-- JavaScript
-- (add your languages here)
+- Java
+
+## 📝 Solutions Index
+
+| # | Title | Difficulty | Language | Link |
+|---|-------|------------|----------|------|
+| 14 | [Longest Common Prefix](easy/0014-longest-common-prefix/Solution.java) | Easy | Java | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) |
 
 ---
 *Solutions are my own work for learning purposes.*
