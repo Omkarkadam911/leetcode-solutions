@@ -13,6 +13,8 @@ leetcode/
 │   │   └── Solution.java
 │   ├── 0020-valid-parentheses/
 │   │   └── Solution.java
+│   ├── 0021-merge-two-sorted-lists/
+│   │   └── Solution.java
 │   ├── 0066-plus-one/
 │   │   └── Solution.java
 │   └── 0141-linked-list-cycle/
@@ -25,10 +27,10 @@ leetcode/
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 4      |
+| Easy       | 5      |
 | Medium     | 0      |
 | Hard       | 0      |
-| **Total**  | **4**  |
+| **Total**  | **5**  |
 
 ## 🛠️ Languages Used
 
@@ -40,6 +42,7 @@ leetcode/
 |---|-------|------------|----------|------|
 | 14 | [Longest Common Prefix](easy/0014-longest-common-prefix/Solution.java) | Easy | Java | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) |
 | 20 | [Valid Parentheses](easy/0020-valid-parentheses/Solution.java) | Easy | Java | [LeetCode](https://leetcode.com/problems/valid-parentheses/) |
+| 21 | [Merge Two Sorted Lists](easy/0021-merge-two-sorted-lists/Solution.java) | Easy | Java | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 66 | [Plus One](easy/0066-plus-one/Solution.java) | Easy | Java | [LeetCode](https://leetcode.com/problems/plus-one/) |
 | 141 | [Linked List Cycle](easy/0141-linked-list-cycle/Solution.java) | Easy | Java | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) |
 
